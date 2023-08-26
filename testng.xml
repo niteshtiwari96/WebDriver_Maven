@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning - Tsys">
+
+
+<test name="ShareKhan Browser Launching test">
+    <classes>
+        <class name="CucumberOptions.LoginRunner" ></class>  
+    </classes>
+</test>
+
+
+</suite>
